@@ -8,9 +8,9 @@ Bar charts for categorical data
 Histograms for continuous data
 
 🛠 Tools & Libraries Used
-Python
-Pandas
-Matplotlib
+-Python
+-Pandas
+-Matplotlib
 
 📌 What was done
 1. Loaded a CSV dataset using Pandas
@@ -21,9 +21,3 @@ Matplotlib
 📈 Output
 1. Bar chart representing distribution of selected values
 2. Clear visualization to identify patterns and comparisons
-
-🎯 Learning Outcome
-This project helped me understand:
-1. How to clean and prepare data for analysis
-2. When to use bar charts vs histograms
-3. How visualizations support data-driven insights
