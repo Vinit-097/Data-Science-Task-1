@@ -1,7 +1,3 @@
-# Data-Science-Task-1
-This repository contains a self-learning data science task where basic data cleaning and visualization techniques are applied to understand data distribution using bar charts and histograms.
-
-
 📊 Data Visualization using Python (EDA Task)
 
 This repository contains a self-learning data science task focused on Exploratory Data Analysis (EDA) and data visualization using Python.
